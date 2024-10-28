@@ -53,6 +53,33 @@ This **Student Management System** is a comprehensive web application built duri
 
 ## Screenshots
 
+ **Batch Page:**
+
+
+![imagealt](https://github.com/Anasfaiz/StudentManagementSystem/blob/7c3889d65e99a32bb2b4d879c9183125047a0dd9/ScreenShots/Batch.png)
+
+
+
+ **Course Page:**
+
+
+![imagealt](https://github.com/Anasfaiz/StudentManagementSystem/blob/7c3889d65e99a32bb2b4d879c9183125047a0dd9/ScreenShots/Course.png)
+
+
+
+ **Registration Page:**
+
+
+ 
+![imagealt](https://github.com/Anasfaiz/StudentManagementSystem/blob/7c3889d65e99a32bb2b4d879c9183125047a0dd9/ScreenShots/Registration.png)
+
+
+
+ **User Page:**
+
+
+![imagealt](https://github.com/Anasfaiz/StudentManagementSystem/blob/7c3889d65e99a32bb2b4d879c9183125047a0dd9/ScreenShots/User.png)
+
 
 
 ## Contributing
